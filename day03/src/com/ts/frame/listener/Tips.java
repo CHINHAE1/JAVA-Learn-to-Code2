@@ -7,7 +7,10 @@ import java.awt.event.KeyListener;
 import javax.swing.*;
 
 /**
- * @Author CHINHAE @Date 2024/5/18 10:20 @PackageName:com.ts.frame.listener @ClassName:
+ * @Author CHINHAE 
+ * @Date 2024/5/18 10:20
+ * @PackageName:com.ts.frame.listener
+ * @ClassName:
  * Tips @Description: TODO @Version 1.0
  */
 public class Tips {
