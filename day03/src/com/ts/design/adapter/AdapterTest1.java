@@ -1,8 +1,8 @@
 package com.ts.design.adapter;
 
-import javax.swing.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
+import javax.swing.*;
 
 /**
  * @Author CHINHAE @Date 2024/5/19 3:19 @PackageName:com.ts.frame.adapter @ClassName:
@@ -21,8 +21,7 @@ public class AdapterTest1 {
             }
         });
         jFrame.setVisible(true);
-    }*/
-
+    */
         JFrame frame = new JFrame();
         frame.setSize(500,500);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
